@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "title": "European Quest",
+      "price": {
+        "currency": "EUR",
+        "price": {
+          "sale": 199,
+          "regular": 320
+        }
+      },
+      "rating": 3.2,
+      "thumbnail": "#",
+      "features": {
+        "countries": 1,
+        "days": 21
+      }
+    },
+    {
+      "title": "European Quest",
+      "price": {
+        "currency": "EUR",
+        "price": {
+          "sale": 199,
+          "regular": 320
+        }
+      },
+      "rating": 3.2,
+      "thumbnail": "#",
+      "features": {
+        "countries": 1,
+        "days": 21
+      }
+    },
+    {
+      "title": "European Quest",
+      "price": {
+        "currency": "EUR",
+        "price": {
+          "sale": 199,
+          "regular": 320
+        }
+      },
+      "rating": 3.2,
+      "thumbnail": "#",
+      "features": {
+        "countries": 1,
+        "days": 21
+      }
+    }
+  ]
+}

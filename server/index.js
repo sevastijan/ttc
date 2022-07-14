@@ -7,10 +7,13 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(cors());
 
-app.get("/", (req, res) => {
-  res.send("Hi There");
-});
+/**
+ * Routes
+ */
+const tripsRoutes = require("./routes/tripRoutes");
 
-app.listen("3001", () => {
-  console.log("test");
+app.use("/v1", tripsRoutes);
+
+app.listen(process.env.PORT || 3001, () => {
+  console.log(`Express is running`);
 });
