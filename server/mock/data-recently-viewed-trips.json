@@ -1,48 +1,60 @@
 {
-  "data": [
+  "recentlyViewedTrips": [
     {
+      "id": 2348727382459,
       "title": "European Quest",
       "price": {
         "currency": "EUR",
-        "price": {
-          "sale": 199,
-          "regular": 320
+        "displayPrice": {
+          "sale": 2877,
+          "regular": 3385
         }
       },
-      "rating": 3.2,
-      "thumbnail": "#",
+      "rating": 3.6,
+      "thumbnail": {
+        "src": "https://images.unsplash.com/photo-1543369715-eb5ecb1a4bf0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "alt": "European Quest"
+      },
       "features": {
-        "countries": 1,
+        "countries": 2,
         "days": 21
       }
     },
     {
+      "id": 783458934567,
       "title": "European Quest",
       "price": {
         "currency": "EUR",
-        "price": {
-          "sale": 199,
-          "regular": 320
+        "displayPrice": {
+          "sale": 1832,
+          "regular": 2155
         }
       },
-      "rating": 3.2,
-      "thumbnail": "#",
+      "rating": 4.8,
+      "thumbnail": {
+        "src": "https://images.unsplash.com/photo-1566999573217-25c859ec1450?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "alt": "European Quest"
+      },
       "features": {
-        "countries": 1,
-        "days": 21
+        "countries": 11,
+        "days": 25
       }
     },
     {
+      "id": 3452879678,
       "title": "European Quest",
       "price": {
         "currency": "EUR",
-        "price": {
-          "sale": 199,
-          "regular": 320
+        "displayPrice": {
+          "sale": 0,
+          "regular": 1465
         }
       },
-      "rating": 3.2,
-      "thumbnail": "#",
+      "rating": 4.5,
+      "thumbnail": {
+        "src": "https://images.unsplash.com/photo-1604239282228-6a723984962c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "alt": "European Quest"
+      },
       "features": {
         "countries": 1,
         "days": 21
